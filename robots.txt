@@ -1,0 +1,27 @@
+User-Agent: *
+Disallow: /page9566615.html
+Disallow: /verteli_my_vash_design
+Disallow: /page5791204.html
+Disallow: /development
+Disallow: /page1922942.html
+Disallow: /footer
+Disallow: /page1922972.html
+Disallow: /header
+Disallow: /page1944129.html
+Disallow: /error404
+Disallow: /page5392457.html
+Disallow: /system-load-korpus-calc
+Disallow: /page6047124.html
+Disallow: /hochu_deshevle
+Disallow: /page9374263.html
+Disallow: /choose_a_contractor
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: https://formlab.ru/sitemap.xml
+Sitemap: https://formlab.ru/sitemap-store.xml
+Sitemap: https://formlab.ru/sitemap-feeds.xml
+Host: https://formlab.ru
